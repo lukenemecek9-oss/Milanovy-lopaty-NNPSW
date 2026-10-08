@@ -1,0 +1,57 @@
+
+1) Jaké tréninkové skupiny hráčů chcete evidovat? například dorost, mladší žáci, dospělý A tým, B tým atd.
+
+dorost, mladší žáci, dospělý A tým
+
+
+2) Jaké údaje chcete evidovat u hráčů? (Jméno a příjmení, zdravotní stav, počet gólů, počet žlutých a červených karet, rodné číslo, tel. číslo, tréninková skupina, týmy za které hraje [Áčko, Béčko atd.]?)
+
+ne, adresa ještě
+
+
+3) Jaké typy uživatelů bude systém používat? Například vedení klubu, trenér, hráč, rodič hráče, administrátor?
+ano, souhlasím
+
+4) Co smí jednotlivé typy uživatelů v systému dělat a k čemu naopak nesmí mít přístup?
+deti mají omezený přístup dospeli maji pristup ke svým udajum, hraci uvidi telefon cisla svych treneru. deti nemuzou: omluvenky nemuze a platby za prispevek klubu
+
+5) Chcete, aby systém uměl přepínat mezi dark/light mode?
+5% z projektu na vlastní barvy pozadí a fonty
+
+6) Jakým způsobem chcete v systému komunikovat s uživateli? Chcete například umožnit vybrat konkrétní tréninkovou skupinu a odeslat jejím členům hromadnou zprávu e-mailem nebo SMS? Má být možné posílat zprávy také trenérům dané skupiny, vedení nebo i jen jednotlivým uživatelům ?
+emaily na bežné notifikace a sms na vážné věci a věci v časové tísni - dohodnuto že je možné bez příplatku
+
+
+7) Co vše si přejete evidovat u tréninků? (Trenéra, který vede trénink, tréninkovou skupinu, datum a čas, popis tréninku, místo např hala nebo tréninkové hřiště) ?
+toto mi stačí
+
+
+8) Může jeden trenér trénovat více tréninkových skupin ?
+ano může
+
+9) Chcete evidovat historii změn, tedy kdo a kdy nějaký údaj změnil?
+ano
+
+10) Chcete, aby aplikace byla desktopová, mobilní nebo webová a pokud mobilní tak pro jaký operační systém Android / iOS?
+chci webovou aplikaci abych stejnou aplikaci používal i na PC a na mobilu.
+
+11) Co vše si přejete evidovat u zápasů (Domácí tým, hostující tým, datum a čas, hrací místo, vítěze, góly, žluté a červené karty, sestavy)?
+Domácí tým, hostující tým, datum a čas, hrací místo
+
+12) Co byste si přál u sportovního vybavení evidovat (typ/název, vypůjčeno/nevypůjčeno, datum vypůjčení, kdo si ho vypůjčil)?
+ano
+
+13) Co byste si přál evidovat u příspěvků (výše příspěvku, hráč, typ platby [hotovost, karta, bankovní převod], datum zaplacení)?
+ano ale navíc notifikovat lidi že nezaplatili
+
+14) U sestav bude stačit evidovat pouze jednotlivé hráče ? Nebo byste si přál i jiné věci?
+ano jen hráče
+
+15) Chtěl byste, aby systém měl i jiné jazykové verze než češtinu?
+anglictina + cestina - dohodnuto bez příplatku
+
+16) Do kdy to chce mít hotový? Jaký je časový deadline odevzdání + délka supportu?
+1 rok + 2 roky podpora
+
+17) Jaký je Váš rozpočet na celkový projekt + rozpočet na support?
+nevím navrhněte cenu za SW -> další schůze
